@@ -1,0 +1,25 @@
+{
+  "name": "ngNHL",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Mills <mills.dma@gmail.com>"
+  ],
+  "description": "angular directive for nhl logos",
+  "main": "ng-nhl.js",
+  "keywords": [
+    "nhl",
+    "angular",
+    "directive",
+    "hockey"
+  ],
+  "license": "MIT",
+  "homepage": "http://yomills.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
